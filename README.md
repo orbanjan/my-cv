@@ -1,7 +1,5 @@
 # Janos Orban
-T: +36 30 9220794 | janos.orban7@gmail.com
-www.linkedin.com/in/janos-orban/
-https://github.com/orbanjan/my-cv
+T: +36 30 9220794 | E: janos.orban7@gmail.com | LinkedIn: www.linkedin.com/in/janos-orban/ | GitHub: https://github.com/orbanjan/my-cv
 
 ## Professional Summary
 Experienced engineering leader with over 25 years in multinational corporations, specializing in project management, AI/ML, automotive technology, and R&D efficiency. Proven track record of driving innovation, optimizing processes, and leading cross-functional teams to deliver significant business value.
