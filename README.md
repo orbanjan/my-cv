@@ -1,6 +1,12 @@
 # Janos Orban
 
-T: +36 30 9220794 | E: <janos.orban7@gmail.com> | LinkedIn: <https://www.linkedin.com/in/janos-orban/> | GitHub: <https://github.com/orbanjan/my-cv>
+**Contact Information**  
+Tel.: +36 30 9220794  
+Email: <janos.orban7@gmail.com>  
+LinkedIn: <https://www.linkedin.com/in/janos-orban>   
+GitHub: <https://github.com/orbanjan/my-cv>   
+
+---
 
 ## About
 
