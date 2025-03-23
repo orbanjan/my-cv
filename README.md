@@ -75,6 +75,7 @@ April 1996 – April 2006, Budapest, HUNGARY & Cleveland, OHIO, USA
 
 ## Education
 
+- **University of Pannonia**, Data and systems scientist and artificial intelligence solution development specialist (2025-)
 - **KÜRT Academy**, Data Science (2016-2017)
 - **Budapest University of Technology and Economics**, MBA (Finance and Economics / Quality and Production Management Specialization) (2006-2008)
 - **University of Szeged**, MSc in Physics (1988-1995)  
