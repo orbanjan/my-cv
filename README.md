@@ -2,9 +2,9 @@
 
 **Contact Information**  
 Tel.: +36 30 9220794  
-Email: <janos.orban7@gmail.com>  
-LinkedIn: <https://www.linkedin.com/in/janos-orban>   
-GitHub: <https://github.com/orbanjan/my-cv>   
+Email: janos.orban7@gmail.com  
+LinkedIn: https://www.linkedin.com/in/janos-orban  
+GitHub: https://github.com/orbanjan/my-cv   
 
 ---
 
@@ -18,7 +18,7 @@ Senior Engineering Manager in R&D, software, and hardware product development wi
 
 ### Robert Bosch Kft  
 
-*Full-time | 6 yrs 6 mos | Hybrid*
+*Full-time | 6 years 6 months | Hybrid*
 
 **Project Manager of Engineering Business Excellence – ADAS Parking Systems**  
 April 2022 – Present, Budapest, HUNGARY  
@@ -40,7 +40,7 @@ July 2018 – April 2022, Budapest, HUNGARY
 
 ### GE Power – Power Services  
 
-*Full-time | 4 yrs | On-site*
+*Full-time | 4 years | On-site*
 
 **Engineering Manager - Parts**  
 July 2014 – June 2018, Veresegyhaz, HUNGARY  
@@ -49,7 +49,7 @@ July 2014 – June 2018, Veresegyhaz, HUNGARY
 
 ### GE Lighting  
 
-*Full-time | 18 yrs | On-site*
+*Full-time | 18 years | On-site*
 
 **Senior NPI Manager - LED Technology**  
 May 2011 – June 2014, Budapest, HUNGARY  
@@ -75,10 +75,10 @@ April 1996 – April 2006, Budapest, HUNGARY & Cleveland, OHIO, USA
 
 ## Education
 
-- **University of Pannonia**, Data and systems scientist and artificial intelligence solution development specialist (2025-)
-- **KÜRT Academy**, Data Science (2016-2017)
-- **Budapest University of Technology and Economics**, MBA (Finance and Economics / Quality and Production Management Specialization) (2006-2008)
-- **University of Szeged**, MSc in Physics (1988-1995)  
+- **University of Pannonia**, Data and systems scientist and artificial intelligence solution development specialist (2025 - present)
+- **KÜRT Academy**, Data Science (2016 - 2017)
+- **Budapest University of Technology and Economics**, MBA (Finance and Economics / Quality and Production Management Specialization) (2006 - 2008)
+- **University of Szeged**, MSc in Physics (1988 - 1995)  
   *Thesis: Modelling of femtosecond laser impulse in dye lasers*
 
 ---
